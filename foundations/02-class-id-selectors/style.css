@@ -1,0 +1,19 @@
+/* styles.css */
+
+.odd,
+.three {
+    background-color: rgb(236, 168, 171);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.three {
+    font-size: 24px;
+}
+#numbertwo {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+#numberfour {
+    background-color: rgb(168, 241, 146);
+    font-size: 24px;
+    font-weight: bold;
+}
